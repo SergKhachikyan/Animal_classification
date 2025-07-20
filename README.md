@@ -20,6 +20,9 @@ This repository presents a convolutional neural network (CNN) solution for multi
 
 ## 📊 Dataset Description
 
+![animal](https://github.com/user-attachments/assets/3d1d77f4-ec30-441f-9d6b-eff17b78fda7)
+
+
 The dataset contains grayscale animal images resized to 140x140 with pixel normalization to [0, 1]. There are 10 classes:
 - `0` — butterflies  
 - `1` — cats  
